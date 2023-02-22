@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+            <channel>
+            <title>Canal sobre móviles</title>
+            <link>https://caarlos645.github.io/pagina/</link>
+            <description>Aquí apareceran las mejores marcas para comprar móviles</description>
+                  <item>
+          <title>Sitio oficial de Iphone</title>
+          <link>https://www.apple.com/iphone/</link>
+          <description>Esta es la ?ágina oficial de Iphone España</description>
+                  </item>
+
+                   <item>
+          <title>Sitio oficial de Samsung</title>
+          <link>https://www.samsung.com/es/</link>
+          <description>Esta es la ?ágina oficial de Samsung España</description>
+                  </item>
+            </channel>
+</rss>      
